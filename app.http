@@ -23,13 +23,13 @@ POST  http://localhost:3000/api/users
 Content-Type: application/json
 
 {
-  "name": "Jude",
-    "contact_phone": "6665889",
+  "name": "Lucy",
+    "contact_phone": "666555665688889",
     "phone_verified": true,
-    "email": "jude@gmail.com",
+    "email": "lucy@gmail.com",
     "email_verified": true,
-    "confirmation_code": "200",
-    "password": "554554"
+    "confirmation_code": "608",
+    "password": "56954"
   }
 
 
